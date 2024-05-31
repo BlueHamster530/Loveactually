@@ -25,9 +25,10 @@ function displaySurvey(questions) {
     container.innerHTML = ''; // 기존 내용 초기화
     questions.forEach((question, index) => {
         if (question) { // 비어 있지 않은 경우에만 표시
+            let changedquestion = question.replace("_",",");
             const html = `
                 <div class="question">
-                    <p>${question}</p>
+                    <p>${changedquestion}</p>
                     <div>
                         ${[1,2,3,4,5,6,7].map(num => `
                         <label><input type="radio" name="question${index}" value="${num}"> ${num}</label>

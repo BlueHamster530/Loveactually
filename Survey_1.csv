@@ -1,0 +1,54 @@
+﻿설문 문항,가중치,소분류,대분류,난수
+대화를 시도하지만_ 대화를 하면 항상 다투게 됩니다.,25,Failure_Communication,Lack_Of_Skill,0.615771425
+주변이나 외부의 도움을 받았으나_ 문제가 해결되지 않았습니다.,33,Failure_Effort,Lack_Of_Skill,0.723065029
+저와 상대방은 중요한 가치관이 서로 다르다고 느낍니다.,33,Difference,Contextual_Factors,0.622298931
+저는 상대방의 입장이 이해되지 않습니다.,20,Lack_Consensus,Lack_Of_Skill,0.154615867
+대부분 한 쪽이 원하는 대로만 결정되거나 결론내려집니다. ,20,Balance,Selfless_Love,0.862220573
+우리 관계를 주변에 비밀로 하고 만납니다.,25,Conscious,Selfless_Love,0.455331337
+제가 거의 모든 결정을 주도합니다.,25,Independent,Selfless_Love,0.558253921
+관계에 딱히 관련 없는 문제여도 서로의 도움이 없다면 결정하기 힘듭니다.,25,Depend,Shaky_Relationship,0.92451647
+종종 상대방이나 내가 지나치게 독립적이라고 느낍니다.,25,Depend,Shaky_Relationship,0.773574491
+상대방에게 하고싶은 말이 있는데 제대로 전달하지 못합니다.,25,Failure_Solve,Lack_Of_Skill,0.145694598
+서로 생각할 시간을 가져보았지만_ 문제가 해결되지 않았습니다.,33,Failure_Effort,Lack_Of_Skill,0.990623461
+우리는 오해가 자주 또는 많이 쌓입니다.,25,Failure_Communication,Lack_Of_Skill,0.263811499
+저 또는 상대방은 서로에게 예전만큼 설레지 않습니다.,25,Ennui,Shaky_Relationship,0.350719652
+주변이나 외부의 도움을 요청하기 어렵거나 거부감이 듭니다.,25,Failure_Solve,Lack_Of_Skill,0.753751509
+연애로 인해_ 가족이나 친구 관계에 불화가 생겼습니다.,33,Negative,Lack_Of_Skill,0.839242073
+우리 사이의 문제점에 대해 상대방과 대화하는 것이 불편합니다.,25,Failure_Solve,Lack_Of_Skill,0.970503099
+저 또는 상대방은_ 이 연애로 인해 성적이나 성과에 부정적인 영향을 받았습니다.,34,Negative,Lack_Of_Skill,0.848623486
+상대방은 저를 자주 의심합니다.,25,Trust,Shaky_Relationship,0.099697148
+상대방이 저에게 많이 맞춰주는 편입니다.,25,Independent,Selfless_Love,0.56445218
+상대방은 자기 주장이 없거나 약합니다.,20,Balance,Selfless_Love,0.786741138
+서로의 잘잘못을 가리려고 하다가 다투게 됩니다.,20,Lack_Consensus,Lack_Of_Skill,0.726188276
+우리 사이엔 실제로 다른 이성과 관련한 문제가 발생했었습니다.,25,Trust,Shaky_Relationship,0.201835363
+저는 상대방에게 서운한 점이 생기면 혼자 생각하는 편입니다.,25,Failure_Communication,Lack_Of_Skill,0.813013976
+상대방이 불편해 할 만한 이야기는 안하는 것이 낫습니다.,25,Independent,Selfless_Love,0.58682526
+상대방이나 저의 업무 등을 이유로 서로 만나는 시간이 적습니다.,40,Lack_Date,Contextual_Factors,0.27475689
+상대방이 종종 저를 무시한다고 느끼거나_ 반대로 상대방은 제가 상대방을 무시하는 것 같다고 말합니다.,20,Balance,Selfless_Love,0.998104801
+구체적인 대화를 시도했지만_ 항상 같은 문제가 다시 발생합니다.,34,Failure_Effort,Lack_Of_Skill,0.460874551
+저는 공개적으로 하는 애정표현이 불편합니다.,25,Conscious,Selfless_Love,0.617308215
+입대_ 입학_ 취직_ 승진 등 중요한 이벤트가 있은 후 상대방과의 만남이 줄어들었습니다.,40,Lack_Date,Contextual_Factors,0.741843159
+저와의 관계에서 주로 상대방이 양보하는 입장입니다.,20,Balance,Selfless_Love,0.282277375
+저 또는 상대방은 서로가 없이는 일상 생활이 힘들다고 느껴집니다.,25,Depend,Shaky_Relationship,0.214230085
+상대방은 저를 충분히 이해하거나 배려하지 못합니다.,20,Lack_Consensus,Lack_Of_Skill,0.917722624
+다른 사람이 우리 관계에 대해 어떻게 생각할지 자주 걱정합니다.,25,Conscious,Selfless_Love,0.978533255
+저는 상대방의 눈치를 많이 보는 편입니다.,25,Independent,Selfless_Love,0.975729584
+저와 상대방은 서로 잘 맞지 않는 사람입니다.,33,Difference,Contextual_Factors,0.093220675
+저 또는 상대방은 자주 연락하거나 만나지 않으면 불안해집니다.,25,Depend,Shaky_Relationship,0.031095861
+저와 상대방은 장거리 연애 중입니다(대중교통으로 1시간 이상 소요),20,Lack_Date,Contextual_Factors,0.24396675
+우리 사이의 애정 표현이 줄었거나_ 표현하기 힘들어졌습니다.,25,Ennui,Shaky_Relationship,0.827768213
+저 또는 상대방은 서로가 귀찮다고 느낍니다.,25,Ennui,Shaky_Relationship,0.079386649
+상대방은 저에게 가스라이팅합니다.,20,Lack_Consensus,Lack_Of_Skill,0.708727337
+저 또는 상대방은 서로 함께 있는 시간이 예전만큼 즐겁다고 느끼지 않습니다.,25,Ennui,Shaky_Relationship,0.260720969
+저와 상대방은 연애의 목적이 서로 다릅니다.,34,Difference,Contextual_Factors,0.646611016
+상대방이 저를 속일 것 같은 불안함을 느낍니다.,25,Trust,Shaky_Relationship,0.918238229
+상대방의 가족이나 친구가 저와의 연애를 싫어합니다.,33,Negative,Lack_Of_Skill,0.582197434
+저는 상대방이 다른 이성과 연락하는 것이 불편합니다.,25,Trust,Shaky_Relationship,0.875788869
+제가 생각하기에 상대방은 자신의 잘못을 모릅니다.,20,Lack_Consensus,Lack_Of_Skill,0.131799073
+상대방과의 관계에서 주로 제가 양보하는 입장입니다.,20,Balance,Selfless_Love,0.130391246
+우리 사이의 문제점을 어떻게 해결해야 할지 모르겠습니다.,25,Failure_Solve,Lack_Of_Skill,0.045373183
+상대방은 서운한 점이 생기면 혼자 생각하는 편입니다.,25,Failure_Communication,Lack_Of_Skill,0.807849469
+상대방은 공개적으로 하는 애정표현을 불편하게 느낍니다.,25,Conscious,Selfless_Love,0.464562077
+,,,,
+,,,,
+,,,,
